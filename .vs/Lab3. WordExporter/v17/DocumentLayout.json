@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|c:\\users\\alert\\yandexdisk-alerted.coffee\\files\\ispo\\\u0438\u0441\u0440\u043F\u043E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab3. wordexporter\\lab3. wordexporter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|solutionrelative:lab3. wordexporter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\lab3. wordexporter\\commodity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|solutionrelative:lab3. wordexporter\\commodity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\lab3. wordexporter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|solutionrelative:lab3. wordexporter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\lab3. wordexporter\\commodityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D283D742-D3B3-42C3-8F39-AF6F80F011F6}|Lab3. WordExporter\\Lab3. WordExporter.csproj|solutionrelative:lab3. wordexporter\\commodityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommodityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\CommodityRepository.cs",
+              "RelativeDocumentMoniker": "Lab3. WordExporter\\CommodityRepository.cs",
+              "ToolTip": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\CommodityRepository.cs",
+              "RelativeToolTip": "Lab3. WordExporter\\CommodityRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:06:39.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commodity.cs",
+              "DocumentMoniker": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\Commodity.cs",
+              "RelativeDocumentMoniker": "Lab3. WordExporter\\Commodity.cs",
+              "ToolTip": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\Commodity.cs",
+              "RelativeToolTip": "Lab3. WordExporter\\Commodity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:06:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab3. WordExporter\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\MainWindow.xaml",
+              "RelativeToolTip": "Lab3. WordExporter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T18:06:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab3. WordExporter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alert\\YandexDisk-alerted.coffee\\files\\ISPO\\\u0418\u0421\u0420\u041F\u041E\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab3. WordExporter\\Lab3. WordExporter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab3. WordExporter\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:06:39.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
