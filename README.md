@@ -1,1 +1,2 @@
-Программа для составления накладных по форме. Тест работы биндингов к репозиторию. Сделано на WPF.
+# WordExporter
+WordExporter is a WPF application designed for creating invoices in [DOCX](https://i.imgur.com/rsNkGoK.png) format based on user-entered [data](https://i.imgur.com/Pu9tUVG.png). The main goal of the project is to study data binding. The input fields and DataGrid are bound to the CommodityRepository through the implementation of INotifyPropertyChanged in the Commodity model to notify about property changes.

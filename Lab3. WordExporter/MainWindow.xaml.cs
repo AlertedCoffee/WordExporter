@@ -14,6 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Word = Microsoft.Office.Interop.Word;
+using Syroot;
 
 namespace Lab3.WordExporter
 {
@@ -97,7 +98,7 @@ namespace Lab3.WordExporter
             // указываем в какой файл сохранить
             // TODO - добавьте возможность выбора названия файла
             // и места где его нужно сохранить
-            object filename = @"D:\wordExample.doc";
+            object filename = Syroot.Windows.IO.KnownFolders.Documents.Path + "\\Расходная накладная №" + invoiceNumber + ".docx";
             document.SaveAs(filename);
             document.Close();
             winword.Quit();
